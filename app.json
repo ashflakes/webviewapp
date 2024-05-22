@@ -30,6 +30,14 @@
         "projectId": "7041728b-07f0-4840-a3e4-d9bd7001cc83"
       }
     },
-    "owner": "ashflakes"
+    "owner": "ashflakes",
+      "plugins": [
+      [
+        "onesignal-expo-plugin",
+        {
+          "mode": "development"
+        }
+      ]
+    ]
   }
 }
